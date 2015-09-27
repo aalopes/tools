@@ -1,0 +1,14 @@
+This is a set of very simple Bash scripts which I tend to use regularly. 
+They are not, in any way meant to be user friendly, i.e. there's usually
+no user prompt or anything.
+
+Most of them can be, in any case, be re-written in a couple of seconds
+but I still decided, since they might be useful.
+
+They are not even worth licensing, but since I don't like leaving
+things in the open domain, I went for the very permissing 2-clause
+FreeBSD license.
+
+Note that some of these might only work on Bash 4.0 >.
+
+Alexandre Lopes, 2015
